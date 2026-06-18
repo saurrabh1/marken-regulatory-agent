@@ -1,0 +1,5 @@
+beautifulsoup4
+pdfplumber
+requests
+lxml
+ibm-watsonx-orchestrate
