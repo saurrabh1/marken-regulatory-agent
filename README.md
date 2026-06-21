@@ -1,5 +1,7 @@
 # Marken Regulatory Agent
 
+DEMO VIDEO [LINK](https://youtu.be/rTVyl07_-bc)
+
 A specialized AI agent for monitoring and summarizing regulatory changes from FDA and EMA for the pharmaceutical and life sciences industry.
 
 ## 🎯 Overview
